@@ -22,7 +22,7 @@ const testimonials = [
   {
     id: 2,
     name: "S.S.",
-    school: "Caltech '28",
+    school: "Caltech '29",
     logo: "CALTECH",
     logoColor: "text-orange-600 bg-orange-50",
     previousStats: "3.9 GPA, 1580 SAT",
