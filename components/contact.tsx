@@ -97,7 +97,7 @@ This request was submitted through the TrueFit Admissions website contact form.
             <CardHeader className="pb-4">
               <CardTitle className="text-xl sm:text-2xl font-bold text-slate-800 flex items-center gap-2">
                 <Calendar className="h-5 w-5 sm:h-6 sm:w-6 text-blue-500" />
-                Free Consultation Request
+                Contact Us To Learn More
               </CardTitle>
             </CardHeader>
             <CardContent className="px-4 sm:px-6">
@@ -224,7 +224,7 @@ This request was submitted through the TrueFit Admissions website contact form.
                     <MapPin className="h-5 w-5 sm:h-6 sm:w-6 text-blue-200 flex-shrink-0" />
                     <div>
                       <div className="font-semibold text-sm sm:text-base">Serving</div>
-                      <div className="text-blue-100 text-sm sm:text-base">Students All Over the Globe</div>
+                      <div className="text-blue-100 text-sm sm:text-base">Students in the Bay Area, Domestically, and Internationally</div>
                     </div>
                   </div>
                 </div>
