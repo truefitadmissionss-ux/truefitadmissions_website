@@ -263,8 +263,7 @@ This request was submitted through the TrueFit Admissions website contact form.
             together.
           </p>
           <p className="text-blue-200 text-sm sm:text-base">
-            Contact Mugdha and Anya for more @ TrueFit Admissions by scheduling a meeting or by emailing us at
-            truefit.admissionss@gmail.com!
+            Contact Anya and Mugdha for more @ TrueFit Admissions emailing us at truefit.admissionss@gmail.com!
           </p>
         </div>
       </div>
